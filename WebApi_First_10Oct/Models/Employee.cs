@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace WebApi_First_10Oct/Data/.Models;
+namespace WebApi_First_10Oct.Models;
 
 public partial class Employee
 {

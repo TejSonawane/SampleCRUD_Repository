@@ -3,8 +3,9 @@
 using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using WebApi_First_10Oct.Models;
 
-namespace WebApi_First_10Oct/Data/.Models;
+namespace WebApi_First_10Oct.Data;
 
 public partial class EmployeeDBContext : DbContext
 {
